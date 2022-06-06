@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samquirijnen
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react and angular
 - 💞️
 - 📫 How to reach me : squirijnen@gmail.com
 
